@@ -1,13 +1,16 @@
 #If you have worked on relevant projects talk about them here
 
-- name: Project 1
-  description: A few sentences describing your project.
+- name: Stackup Simulator
+  description: Simulates the popular college drinking game Stackup. Includes different strategies and reports statistical analyses (python, javascript, html, css)
 
-- name: Project 2
-  description: A few sentences describing your project.
+- name: Carbon Emission Calculator Website
+  description:  Developed full stack application for a carbon emission calculator for SHINE@MIT (python, javascript, html, css )
 
-- name: Project 3
-  description: A few sentences describing your project.
+- name: Covid-19 Prediction (Machine Learning)
+  description: Participated in a Kaggle Competition for Covid-19 Prediction (python)
 
-- name: Project 4
-  description: A few sentences describing your project.
+- name: Word Arcade
+  description: Built several games, including wordle and word search, in terminal (oCaml)
+
+
+
